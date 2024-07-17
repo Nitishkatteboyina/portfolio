@@ -340,8 +340,8 @@ nav .list input[type="checkbox"]:checked ~ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 350px;
-    height: 350px;
+    width: 330px;
+    height: 330px;
 }
 
 .project-div .project a {
